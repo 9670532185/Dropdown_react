@@ -1,0 +1,33 @@
+.Sel{
+    height: 40%;
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 5%;
+}
+.He{
+    margin-top: 5%;
+    margin-left: 40%;
+    font-size: 30px;
+    color: rgb(32, 36, 36);
+    color: cadetblue;   
+}
+.Head{
+    margin-left: 40%;
+    color: rgb(9, 26, 26);
+    font-size: 20px;
+  border: 2px solid aqua;
+
+  width: 18%;
+  height: 40%;
+  background-color: aqua;
+  border-width:20px ;
+}
+.Main{
+    border: 1px solid rgb(137, 129, 129);
+   
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 10%;
+    border-radius: 1pc;
+background-color: antiquewhite;    
+}
